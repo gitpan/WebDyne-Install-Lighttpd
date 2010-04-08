@@ -1,0 +1,20 @@
+commit 78325d3c94f976529ee3a723799cce30448e0709
+Author: root <root@copper.isolutions.com.au>
+Date:   Thu Apr 8 22:24:35 2010 +0930
+
+    Tag: WebDyne-Install-Lighttpd_0.003
+    
+    Updated documentation, cleaned up ready for CPAN release.
+
+commit 5e379c369494ffee558dc5ffc762ca02bd67e4c3
+Author: Andrew Speer <aspeer@silicon.isolutions.com.au>
+Date:   Mon Aug 24 00:34:21 2009 +0930
+
+    MANIFEST import
+
+commit ca6298ddca2d254978655eecb69a98c2ecf98f7c
+Author: Andrew Speer <aspeer@silicon.isolutions.com.au>
+Date:   Mon Aug 24 00:11:39 2009 +0930
+
+    Tag: WebDyne-Install-Lighttpd_0.02
+
