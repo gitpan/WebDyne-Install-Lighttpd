@@ -1,6 +1,6 @@
 #
 #
-#  Copyright (c) 2003 Andrew W. Speer <andrew.speer@isolutions.com.au>. All rights
+#  Copyright (C) 2006-2010 Andrew Speer <andrew@webdyne.org>. All rights
 #  reserved.
 #
 #  This file is part of WebDyne::Install::Lighttpd
@@ -21,4 +21,4 @@
 #
 #
 package WebDyne::Install::Lighttpd::VERSION;
-$VERSION='0.003';
+$VERSION='0.005';

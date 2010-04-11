@@ -1,9 +1,9 @@
 #
 #
-#  Copyright (c) 2003 Andrew W. Speer <andrew.speer@isolutions.com.au>. All rights 
+#  Copyright (C) 2006-2010 Andrew Speer <andrew@webdyne.org>. All rights 
 #  reserved.
 #
-#  This file is part of WebDyne::Install.
+#  This file is part of WebDyne::Install::Lighttpd.
 #
 #  WebDyne::Install is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
@@ -19,12 +19,6 @@
 #  along with this program; if not, write to the Free Software
 #  Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 #
-#
-#  $Id: WebDyne_Install_Lighttpd.pm,v 1.4 2008/04/27 15:40:42 aspeer Exp $
-
-
-
-#  WebDyne Lighttpd Install module
 #
 package WebDyne::Install::Lighttpd;
 
@@ -418,7 +412,7 @@ current documentation in PDF format available in the WebDyne source /doc directo
 
 =head1 Copyright and License
 
-WebDyne::Install::Lighttpd is Copyright (C) Andrew Speer 2005-2010. WebDyne::Install::Lighttpd is dual licensed. It is
+WebDyne::Install::Lighttpd is Copyright (C) 2006-2010 Andrew Speer. WebDyne::Install::Lighttpd is dual licensed. It is
 released as free software released under the Gnu Public License (GPL), but is also available for commercial use under
 a proprietary license - please contact the author for further information.
 
@@ -428,7 +422,7 @@ are covered by the Perl Artistic License
 
 =head1 Author
 
-Andrew Speer, andrew.speer@webdyne.org
+Andrew Speer, andrew@webdyne.org
 
 =head1 Bugs
 

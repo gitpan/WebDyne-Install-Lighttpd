@@ -1,3 +1,19 @@
+commit 74b1975147846c6d2b81bf8799725d173ad74d55
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Sun Apr 11 21:35:02 2010 +0930
+
+    Tag: WebDyne-Install-Lighttpd_0.005
+    
+    Updated to YAML 1.4, fixed ref to missing perl5lib.pm
+
+commit 1b0c7c9ff5fb3278eaa67b65e3460ce1cffa21a4
+Author: Andrew Speer <andrew.speer@isolutions.com.au>
+Date:   Sun Apr 11 16:38:57 2010 +0930
+
+    Tag: WebDyne-Install-Lighttpd_0.004
+    
+    Updated copyright and author information, updated Makekefiel to create META.yml
+
 commit 78325d3c94f976529ee3a723799cce30448e0709
 Author: root <root@copper.isolutions.com.au>
 Date:   Thu Apr 8 22:24:35 2010 +0930
