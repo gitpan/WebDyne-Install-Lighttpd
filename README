@@ -1,4 +1,5 @@
-WebDyne::Install::Lighttpd is the installer package for WebDyne with the Lighttpd web server
+WebDyne::Install::Lighttpd is the installer package that configures the
+Lighttpd web server to process WebDyne pages.
 
 Once downloaded and installed run:
 

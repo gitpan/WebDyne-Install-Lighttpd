@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               WebDyne-Install-Lighttpd
-version:            0.005
+version:            0.006
 abstract:           ~
 author:
     - Andrew Speer <andrew@webdyne.org>

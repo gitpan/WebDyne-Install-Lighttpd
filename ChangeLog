@@ -1,3 +1,11 @@
+commit 7d644cb99f9c0fef091e76b96e24ea2cd3d04da9
+Author: Andrew Speer <andrew@webdyne.org>
+Date:   Mon Apr 12 12:42:46 2010 +0930
+
+    Tag: WebDyne-Install-Lighttpd_0.006
+    
+    clean mm_ver redundancy in Makefile.PL, edit README
+
 commit 74b1975147846c6d2b81bf8799725d173ad74d55
 Author: Andrew Speer <andrew@webdyne.org>
 Date:   Sun Apr 11 21:35:02 2010 +0930
