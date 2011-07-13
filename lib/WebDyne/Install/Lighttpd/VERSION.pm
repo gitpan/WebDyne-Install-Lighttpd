@@ -21,4 +21,4 @@
 #
 #
 package WebDyne::Install::Lighttpd::VERSION;
-$VERSION='0.006';
+$VERSION='0.007';
