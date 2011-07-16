@@ -2,7 +2,6 @@ ChangeLog
 MANIFEST
 LICENSE
 Makefile.PL
-lib/WebDyne/Install/Lighttpd/VERSION.pm
 lib/WebDyne/Install/Lighttpd/webdyne.conf.inc
 lib/WebDyne/Install/Lighttpd/lighttpd.conf.inc
 lib/WebDyne/Install/Lighttpd/Constant.pm

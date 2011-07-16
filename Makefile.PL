@@ -29,23 +29,18 @@ if ($mm_ver =~ /_/) { # dev version
 #------------------------------------------------------------------------------
 
 
-#  Temp Var to hold prerequisites
-#
-my $prereq_hr;
-
-
 #  Create the Makefile
 #
+my ($prereq_hr, $version_from_fn);
 my %makefile=(
 
-    NAME				     =>  __PACKAGE__,
-    VERSION_FROM                            =>  File::Spec->catfile(
+    NAME				    =>  __PACKAGE__,
+    VERSION_FROM                            =>  $version_from_fn=File::Spec->catfile(
 
         'lib',
         split(/::/, __PACKAGE__),
-        'VERSION.pm'
 
-       ),
+       ).'.pm',
 
     PREREQ_PM				     =>  do { $prereq_hr={
 
@@ -85,6 +80,7 @@ my %makefile=(
 
     ($] <  5.005 ? () : (
     
+        ABSTRACT_FROM			    =>  $version_from_fn,    
         AUTHOR				    =>  'Andrew Speer <andrew@webdyne.org>',
         
     )),
